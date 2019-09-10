@@ -2,7 +2,7 @@
    - algorithm: 算法
    - pseudo code: 伪代码
    - initialize: 初始化
-   - convention: 习惯
+   - convention: 约定、惯例
    - indentation: 缩进
    - loop: 循环
    - so far, so good: 到目前为止还好
