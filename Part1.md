@@ -19,3 +19,4 @@
    - There you go: 常用口语，很多种意思，自己去搜吧
    - go down the rabbit hole： 进入一个很难的新境地
    - thumb down: thumb up的反义词
+   - not even close: 差得远
