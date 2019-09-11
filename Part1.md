@@ -6,7 +6,7 @@
    - indentation: 缩进
    - loop: 循环
    - so far, so good: 到目前为止还好
-   - line2 no long appplies: 第二行不再适用
+   - line 2 no long appplies: 第二行不再适用
 
 2. [Should you Learn C# in 2019?](https://www.youtube.com/watch?v=2KHjrvNHIZc)
    - I want to get into game programming with unity
