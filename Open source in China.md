@@ -1,4 +1,9 @@
-Open source in China
+#Open source in China
+
+By **Zhongke Yang**
+
+September 12, 2019
+
 
 What you might not know is that Linux powers about 70 percent of the top 10 million websites. Unlike Windows, Linux is an open-source operating system, which does not belong to any company. Linux is maintained by the technical community, which consists of 10,000 developers from more than 1,000 companies. In addition to Linux, many famous software applications are open source, such as Android, Chrome, Hadoop, OpenStack, Docker, MySQL. Open source creates $1.7 trillion of value per year. As the world's second-largest economy, China used to be a heavy user of open source; however, China started to contribute to open source, especially in the areas of machine learning and AI.
 
