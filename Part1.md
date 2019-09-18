@@ -20,3 +20,7 @@
    - go down the rabbit hole： 进入一个很难的新境地
    - thumb down: thumb up的反义词
    - not even close: 差得远
+3. [Things I wish I knew when I started Programming](https://www.youtube.com/watch?v=GAgegNHVXxE)
+   - top tips
+   - get things rolling
+   - the only constant is change: 唯一不变的就是变化
