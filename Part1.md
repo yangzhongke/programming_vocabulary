@@ -24,3 +24,13 @@
    - top tips
    - get things rolling
    - the only constant is change: 唯一不变的就是变化
+4. [How data brokers sold my identity](https://www.ted.com/talks/madhumita_murgia_how_data_brokers_sell_your_identity/transcript?language=en)
+   - detached house: 独立屋
+   - on-demand service: 按需服务
+   - I'm rarely swayed by other's views. 我很少受别人观点的影响
+   - reinforce: It reinforces my anxieties.
+   - sedentary 久坐的
+   - pinpoint 精确地找到
+   - creepy 令人毛骨悚然的
+   - bidder 出价者
+   - reckless 鲁莽的
