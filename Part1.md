@@ -34,3 +34,6 @@
    - creepy 令人毛骨悚然的
    - bidder 出价者
    - reckless 鲁莽的
+5. [Visual Studio for Mac: IntelliSense Improvements](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-for-Mac-IntelliSense-Improvements)
+   - intellisense 智能提示
+   - caret 插入字符（文本框输入的时候那个闪动的竖线，注意和鼠标光标cursor区分开）
