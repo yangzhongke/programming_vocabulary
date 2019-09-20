@@ -43,7 +43,7 @@
    - one-size-fit-all solution 一刀切的解决方案
    - imperative 必要的，势在必行的
    - declarative 声明式的
-   - idempotent 幂等的
+   - idempotent 幂等的。词根分析：idem是“同上”的意思，potent是“有效的”，因此“幂等”就是“同上次一样有效”
    - modularize 模块化
    - in one shot 一下子
    - potent 有效的
