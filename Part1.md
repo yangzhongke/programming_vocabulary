@@ -37,3 +37,16 @@
 5. [Visual Studio for Mac: IntelliSense Improvements](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-for-Mac-IntelliSense-Improvements)
    - intellisense 智能提示
    - caret 插入字符（文本框输入的时候那个闪动的竖线，注意和鼠标光标cursor区分开）
+6. [Build a CI/CD pipeline for API Management, Part 1](https://channel9.msdn.com/Shows/Azure-Friday/Build-a-CICD-pipeline-for-API-Management-Part-1)
+   - resource kit 资源包
+   - step on each other 互相牵连
+   - one-size-fit-all solution 一刀切的解决方案
+   - imperative 必要的，势在必行的
+   - declarative 声明式的
+   - idempotent 幂等的
+   - modularize 模块化
+   - in one shot 一下子
+   - potent 有效的
+   - compliant 一致的，符合的，顺从的
+   - conceptual framework 概念性框架
+   - put into practice 实施
