@@ -46,7 +46,7 @@
    - idempotent 幂等的。词根分析：idem是“同上”的意思，potent是“有效的”，因此“幂等”就是“同上次一样有效”
    - modularize 模块化
    - in one shot 一下子
-   - potent 有效的
+   - potent 有效的 （从potential引申）
    - compliant 一致的，符合的，顺从的
    - conceptual framework 概念性框架
    - put into practice 实施
