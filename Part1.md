@@ -53,6 +53,7 @@
 7. [C# Advanced Tutorials: The ForEach Method And Functional Programming](https://www.youtube.com/watch?v=s8ru33IIQzc)
    - hyphen 连字符，"my-code"里的-读作hyphen
    - you can reach me at Facebook 你可以在FaceBook上联系到我
+   - often-overlooked 经常忽视的
    - one-off function 一次性方法
    - drive me nuts 让我抓狂
    - singular 单数
