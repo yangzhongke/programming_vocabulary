@@ -50,3 +50,17 @@
    - compliant 一致的，符合的，顺从的
    - conceptual framework 概念性框架
    - put into practice 实施
+7. [C# Advanced Tutorials: The ForEach Method And Functional Programming](https://www.youtube.com/watch?v=s8ru33IIQzc)
+   - hyphen 连字符，"my-code"里的-读作hyphen
+   - you can reach me at Facebook 你可以在FaceBook上联系到我
+   - one-off function 一次性方法
+   - drive me nuts 让我抓狂
+   - singular 单数
+   - plural 复数
+   - duplicated code 重复代码
+   - single responsibility principle 单一职责原则
+   - dilly-dallying 浪费时间
+   - readable 可读的，比如His code is readable. 它的代码可读性高很好
+   - understandable 可理解的
+   - obscured 难懂的
+   - assignment operator 赋值运算符
