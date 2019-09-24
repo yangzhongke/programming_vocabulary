@@ -72,10 +72,9 @@
    - naming convention 命名约定
    - you got me 你难倒我了
    - "Braces" or "curly braces":  \{ \} 
-   = " Brackets" or "square brackets": \[\]
-   = parentheses: \(\)
-   = doule equal sign 双等号
-   = denote: The double equal sign is to denote that we are evaluating this.
-   = sequentially: By default, JavaScript tasks are functions that are executed sequentially in a single process. 
-   = one after the other: Run multiple commands one after another in command line.
-   - 
+   - " Brackets" or "square brackets": \[\]
+   - parentheses: \(\)
+   - doule equal sign 双等号
+   - denote: The double equal sign is to denote that we are evaluating this.
+   - sequentially: By default, JavaScript tasks are functions that are executed sequentially in a single process. 
+   - one after the other: Run multiple commands one after another in command line.
