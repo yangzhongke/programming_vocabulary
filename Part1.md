@@ -102,3 +102,33 @@
    - untapped 未开发的，未使用的
    - deface 损伤外观，丑化，毁坏
    - phishing 网络钓鱼，网络欺诈
+10. [Misha Glenny: Hire the hackers](https://www.ted.com/talks/misha_glenny_hire_the_hackers)
+   - ravage 破坏
+   - a breeze 小事一桩
+   - As easy as falling off a log  小事一桩
+   - for heaven's sake 看在上帝的份上
+   - conspiracy 阴谋
+   - espionage 间谍
+   - cyber warfare 网络战
+   - deception 诈骗
+   - binary code 二进制代码
+   - dazzling solutions 眼花缭乱的解决方案
+   - surplus 剩余的
+   - off-the-shelf 现成的
+   - out-of-the-box 开箱即用的
+   - rip off  欺诈，剥削
+   - stash 藏匿
+   - sink-or-swim 背水一战，破釜沉舟
+   - seduce 引诱
+   - obsession 痴迷，困扰
+   - inveterate 根深的，成癖的
+   - veteran 老兵，富有经验的人
+   - convicted 证明有罪的，已被判刑的
+   - moral compass
+   - incidence 发生率
+   - pathbreaking 开创性的
+   - manifest 表明，显现
+   - blunt 钝的，不锋利的
+   - mobilize 动员
+   - relentless 残酷的
+   - legitimate 合法的，正当的
