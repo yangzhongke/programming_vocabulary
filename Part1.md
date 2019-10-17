@@ -98,7 +98,6 @@
    - in light of what we know 根据我们知道的
    - portray 描绘
    - leave it be 随它去吧
-   - current of power 硬通货
    - high season 旺季
    - untapped 未开发的，未使用的
    - deface 损伤外观，丑化，毁坏
