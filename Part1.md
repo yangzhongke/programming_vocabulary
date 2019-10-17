@@ -1,4 +1,4 @@
-1. [Ted-Ed What's an algorithm?](https://www.ted.com/talks/david_malan_what_s_an_algorithm#t-200400)
+01. [Ted-Ed What's an algorithm?](https://www.ted.com/talks/david_malan_what_s_an_algorithm#t-200400)
    - algorithm: 算法
    - pseudo code: 伪代码
    - initialize: 初始化
@@ -8,7 +8,7 @@
    - so far, so good: 到目前为止还好
    - line 2 no long appplies: 第二行不再适用
 
-2. [Should you Learn C# in 2019?](https://www.youtube.com/watch?v=2KHjrvNHIZc)
+02. [Should you Learn C# in 2019?](https://www.youtube.com/watch?v=2KHjrvNHIZc)
    - I want to get into game programming with unity
    - C# was modeled after java : C#从模仿Java起步
    - neck-and-neck 比肩
@@ -20,11 +20,11 @@
    - go down the rabbit hole： 进入一个很难的新境地
    - thumb down: thumb up的反义词
    - not even close: 差得远
-3. [Things I wish I knew when I started Programming](https://www.youtube.com/watch?v=GAgegNHVXxE)
+03. [Things I wish I knew when I started Programming](https://www.youtube.com/watch?v=GAgegNHVXxE)
    - top tips
    - get things rolling
    - the only constant is change: 唯一不变的就是变化
-4. [How data brokers sold my identity](https://www.ted.com/talks/madhumita_murgia_how_data_brokers_sell_your_identity/transcript?language=en)
+04. [How data brokers sold my identity](https://www.ted.com/talks/madhumita_murgia_how_data_brokers_sell_your_identity/transcript?language=en)
    - detached house: 独立屋
    - on-demand service: 按需服务
    - I'm rarely swayed by other's views. 我很少受别人观点的影响
@@ -34,10 +34,10 @@
    - creepy 令人毛骨悚然的
    - bidder 出价者
    - reckless 鲁莽的
-5. [Visual Studio for Mac: IntelliSense Improvements](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-for-Mac-IntelliSense-Improvements)
+05. [Visual Studio for Mac: IntelliSense Improvements](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-for-Mac-IntelliSense-Improvements)
    - intellisense 智能提示
    - caret 插入字符（文本框输入的时候那个闪动的竖线，注意和鼠标光标cursor区分开）
-6. [Build a CI/CD pipeline for API Management, Part 1](https://channel9.msdn.com/Shows/Azure-Friday/Build-a-CICD-pipeline-for-API-Management-Part-1)
+06. [Build a CI/CD pipeline for API Management, Part 1](https://channel9.msdn.com/Shows/Azure-Friday/Build-a-CICD-pipeline-for-API-Management-Part-1)
    - resource kit 资源包
    - step on each other 互相牵连
    - one-size-fit-all solution 一刀切的解决方案
@@ -50,7 +50,7 @@
    - compliant 一致的，符合的，顺从的
    - conceptual framework 概念性框架
    - put into practice 实施
-7. [C# Advanced Tutorials: The ForEach Method And Functional Programming](https://www.youtube.com/watch?v=s8ru33IIQzc)
+07. [C# Advanced Tutorials: The ForEach Method And Functional Programming](https://www.youtube.com/watch?v=s8ru33IIQzc)
    - hyphen 连字符，"my-code"里的-读作hyphen
    - you can reach me at Facebook 你可以在FaceBook上联系到我
    - often-overlooked 经常忽视的
@@ -65,7 +65,7 @@
    - understandable 可理解的
    - obscured 难懂的
    - assignment operator 赋值运算符
-8. [C# Beginner Tutorial | if Statements and User Input](https://www.youtube.com/watch?v=19C-78OKoCU)
+08. [C# Beginner Tutorial | if Statements and User Input](https://www.youtube.com/watch?v=19C-78OKoCU)
    - in full force 全力以赴
    - semicolon 分号
    - string concatenation 字符串连接
@@ -78,7 +78,7 @@
    - denote: The double equal sign is to denote that we are evaluating this.
    - sequentially: By default, JavaScript tasks are functions that are executed sequentially in a single process. 
    - one after the other: Run multiple commands one after another in command line.
-9. [Hackers: The Internet's immune system](https://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system?language=en#t-947700)
+09. [Hackers: The Internet's immune system](https://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system?language=en#t-947700)
    - script kiddie 只会用脚本的菜鸟黑客
    - trick 诡计、花招
    - radioactive 放射性的
@@ -102,7 +102,7 @@
    - untapped 未开发的，未使用的
    - deface 损伤外观，丑化，毁坏
    - phishing 网络钓鱼，网络欺诈
-1. [Misha Glenny: Hire the hackers](https://www.ted.com/talks/misha_glenny_hire_the_hackers)
+10. [Misha Glenny: Hire the hackers](https://www.ted.com/talks/misha_glenny_hire_the_hackers)
    - ravage 破坏
    - a breeze 小事一桩
    - As easy as falling off a log  小事一桩
