@@ -83,7 +83,8 @@
    - trick 诡计、花招
    - radioactive 放射性的
    - With great power comes great responsibility 能力越大，责任越大
-   - flaw 缺陷，漏洞 用vulnerability更专业
+   - flaw 缺陷，
+   - vulnerability 网站、软件等的漏洞 
    - internet dwellers 互联网原住民
    - cyber attack 网络攻击
    - prank 恶作剧
