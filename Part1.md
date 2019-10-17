@@ -78,3 +78,27 @@
    - denote: The double equal sign is to denote that we are evaluating this.
    - sequentially: By default, JavaScript tasks are functions that are executed sequentially in a single process. 
    - one after the other: Run multiple commands one after another in command line.
+9. [Hackers: The Internet's immune system](https://www.ted.com/talks/keren_elazari_hackers_the_internet_s_immune_system?language=en#t-947700)
+   - script kiddie 只会用脚本的菜鸟黑客
+   - trick 诡计、花招
+   - radioactive 放射性的
+   - With great power comes great responsibility 能力越大，责任越大
+   - flaw 缺陷，漏洞 用vulnerability更专业
+   - internet dwellers 互联网原住民
+   - cyber attack 网络攻击
+   - prank 恶作剧
+   - lay the foundation 奠定基础
+   - perceive 感知、察觉
+   - one man's hero can be another's villain 一个人的英雄可能是另外一个人的恶魔
+   - all walks of life 各行各业
+   - love-hate relationship 爱恨交加的关系
+   - demonize 妖魔化
+   - sales pitch 推销的言辞
+   - in light of what we know 根据我们知道的
+   - portray 描绘
+   - leave it be 随它去吧
+   - current of power 硬通货
+   - high season 旺季
+   - untapped 未开发的，未使用的
+   - deface 损伤外观，丑化，毁坏
+   - phishing 网络钓鱼，网络欺诈
