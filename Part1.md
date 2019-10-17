@@ -102,7 +102,7 @@
    - untapped 未开发的，未使用的
    - deface 损伤外观，丑化，毁坏
    - phishing 网络钓鱼，网络欺诈
-10. [Misha Glenny: Hire the hackers](https://www.ted.com/talks/misha_glenny_hire_the_hackers)
+1. [Misha Glenny: Hire the hackers](https://www.ted.com/talks/misha_glenny_hire_the_hackers)
    - ravage 破坏
    - a breeze 小事一桩
    - As easy as falling off a log  小事一桩
