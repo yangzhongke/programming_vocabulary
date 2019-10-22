@@ -5,4 +5,10 @@
    - Selenium test 
    - End-to-end 端对端
    - sprint 本意是“冲刺”的意思，在软件开发中指的是软件发布前做的工作
-   - 
+   - thumb drive U盘的一种说法
+   - double-down 加倍努力
+   - backlog 积累的工作
+   - Kanban boards 看板
+   - seamlessly 无缝地。 work together seamlessly
+
+   
