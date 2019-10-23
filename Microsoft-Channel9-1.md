@@ -11,4 +11,7 @@
    - Kanban boards 看板
    - seamlessly 无缝地。 work together seamlessly
 
+02. [Interface Testing_DevOps for Mobile](http://www.youzack.com/ListeningExercise/Episode/1172)   
+   - that's where App Center comes in. App Center派上用场了
+   - Sick!等于Awsome
    
