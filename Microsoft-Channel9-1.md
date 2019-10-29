@@ -30,3 +30,11 @@
    - side-by-side :并肩的；并行的
    - existing application 现有的应用
    - make your call 做个决定
+
+06. [Making a Simple API](http://www.youzack.com/ListeningExercise/Episode/1179?mediaType=video)
+   - abbreviation 缩写
+   - slash 斜线，backslash 反斜线
+   - Teach a woman to fish. 这句话是一句成语的片段“give a man a fish and you feed him for a day; teach a man to fish and you feed him for a lifetime” 类似于中文的“授人以鱼，不如授人以渔”。
+   - All in one: N合一
+   - low-level 低级别的、底层的
+   - browser 浏览器，主要是这个容易读错
