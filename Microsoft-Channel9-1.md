@@ -1,4 +1,4 @@
-01. [What Is Mobile DevOps](http://www.youzack.com/ListeningExercise/Episode/1171)
+01. [What Is Mobile DevOps](http://www.youzack.com/ListeningExercise/Episode/1171?mediaType=audio)
    - Tune into:  watch or listen to a program，看或者听一个节目
    - I'm all about DevOps. 我之关心DevOps
    - not a whole lot 不是很多
@@ -11,7 +11,13 @@
    - Kanban boards 看板
    - seamlessly 无缝地。 work together seamlessly
 
-02. [Interface Testing_DevOps for Mobile](http://www.youzack.com/ListeningExercise/Episode/1172)   
+02. [Interface Testing_DevOps for Mobile](http://www.youzack.com/ListeningExercise/Episode/1172?mediaType=audio)   
    - that's where App Center comes in. App Center派上用场了
    - Sick!等于Awsome
+
+03. [Supporting Windows Forms and WPF in .NET Core 3](http://www.youzack.com/ListeningExercise/Episode/1175?mediaType=audio)
+   - legacy system 遗留系统
+   - system-wide update 系统范围的更新
+   - wrapper 封装者
+   - fusion 融合
    
