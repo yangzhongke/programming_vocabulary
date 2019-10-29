@@ -25,3 +25,8 @@
    - built-in 内建的
    - Thanks for joining us 一般是主持人感谢嘉宾参加说的话
    
+05. [NET Core and .NET Framework what to choose[1 of 3]](http://www.youzack.com/ListeningExercise/Episode/1177?mediaType=audio)
+   - regression 回退
+   - side-by-side :并肩的；并行的
+   - existing application 现有的应用
+   - make your call 做个决定
