@@ -21,3 +21,7 @@
    - wrapper 封装者
    - fusion 融合
    
+04. [Publishing your Containerized Web App](http://www.youzack.com/ListeningExercise/Episode/1176?mediaType=audio)
+   - built-in 内建的
+   - Thanks for joining us 一般是主持人感谢嘉宾参加说的话
+   
