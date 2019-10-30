@@ -38,3 +38,14 @@
    - All in one: N合一
    - low-level 低级别的、底层的
    - browser 浏览器，主要是这个容易读错
+   
+07. [Introducing Blazor](http://www.youzack.com/ListeningExercise/Episode/1180?mediaType=video)
+   - verbose 啰嗦的
+   - on purpose 故意的
+   - pet peeve 讨厌的事
+   - ternary operator 三元运算符
+   - three-ish 整3
+   - and all that jazz 及诸如此类的东西
+   - My bad 我的错
+   - for loop：for循环
+   - zero indexing：0开始的索引
