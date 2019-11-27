@@ -49,3 +49,10 @@
    - My bad 我的错
    - for loop：for循环
    - zero indexing：0开始的索引
+08. [Containers and microservices_ Zero to Hero with Service Fabric](http://www.youzack.com/ListeningExercise/Episode/1099?mediaType=video) 
+   - container orchestration 容器编排
+   - provision 
+   - Ingress Rule  入口规则
+   - subnet 子网
+   - gigabyte G
+   - azure key vault: a tool for securely storing and accessing secrets.
