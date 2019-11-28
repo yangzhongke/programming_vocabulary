@@ -61,3 +61,9 @@
    - azure key vault: a tool for securely storing and accessing secrets.
    - Kubernetes  发音：(koo ber nets)
    - multi-tenant
+09. [Cognitive Services Labs in action -Microsoft Build 2018-Part1](http://www.youzack.com/ListeningExercise/Episode/1100?mediaType=video)
+   - right off the bat 立即
+   - persona 人物，通常指的是扮演的角色
+   - chitchat 闲聊
+   - threshold 阈值
+   
