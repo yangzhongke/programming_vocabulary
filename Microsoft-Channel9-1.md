@@ -54,7 +54,10 @@
    - provision 
    - Ingress Rule  入口规则
    - subnet 子网
-   - gigabyte G
+   - TrillionByte
+   - gigabyte
+   - mega byte
+   - kilobyte
    - azure key vault: a tool for securely storing and accessing secrets.
    - Kubernetes  发音：(koo ber nets)
    - multi-tenant
