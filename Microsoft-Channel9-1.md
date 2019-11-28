@@ -56,3 +56,5 @@
    - subnet 子网
    - gigabyte G
    - azure key vault: a tool for securely storing and accessing secrets.
+   - Kubernetes  发音：(koo ber nets)
+   - multi-tenant
