@@ -4,7 +4,7 @@
    - traffic-based autoscaling
    - on-premises: On-premise software is installed locally, on a company's own computers and servers;while Cloud-based software is hosted on the vendor's servers and accessed through a web browser.
    - provision:  in IT to provision is to activate a component, such as a server or switch, so that it is available for use.
-   - downtime 
+   - downtime： 反义词是uptime
    - latency 延迟
    - failover and replication: 失败转移和主从复制
    - high-availability 
@@ -16,3 +16,8 @@
    - network topology: 网络拓朴结构
    - throughput rate: 吞吐率
    - dedicated: 专用的，和shared是反义词. Dedicated instance/Dedicated system.
+02. Part 2
+   - heavy lifting: 繁重的任务。Azure does the heavy lifting for you
+   - best-in-class: 一流的
+   - shunt: 分流。You can shunt 10% of your users to the new version.
+   - staging: 项目的3各阶段：development,staging,production.staging阶段是开发没问题了，到生产环境之前的验证测试阶段。和普通测试环境不同的是，staging服务器的配置以及软件和生产服务器一摸一样。
