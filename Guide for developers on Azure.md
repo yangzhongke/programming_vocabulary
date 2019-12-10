@@ -2,5 +2,12 @@
    - Scaling out = adding more components in parallel to spread out a load.
    - Scaling up = making a component bigger or faster so that it can handle more load.
    - traffic-based autoscaling
-   - on-premises
+   - on-premises: On-premise software is installed locally, on a company's own computers and servers;while Cloud-based software is hosted on the vendor's servers and accessed through a web browser.
    - provision:  in IT to provision is to activate a component, such as a server or switch, so that it is available for use.
+   - downtime 
+   - latency 延迟
+   - failover and replication: 失败转移和主从复制
+   - high-availability 
+   - role-based access control (RBAC)
+   - fine-grained access management: 细粒度的访问管理
+   -
