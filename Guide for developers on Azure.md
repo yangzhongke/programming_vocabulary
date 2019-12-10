@@ -26,3 +26,4 @@
    - compute-intensive 计算密集的
    - preconfigured 事先配置好的
    - traffic comes in spikes：流量达到峰值
+   - Bot Traffic: 非人类访问造成的流量，比如爬虫、DDOS、监控、漏洞扫描工具等。
