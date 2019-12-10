@@ -21,3 +21,8 @@
    - best-in-class: 一流的
    - shunt: 分流。You can shunt 10% of your users to the new version.
    - staging: 项目的3各阶段：development,staging,production.staging阶段是开发没问题了，到生产环境之前的验证测试阶段。和普通测试环境不同的是，staging服务器的配置以及软件和生产服务器一摸一样。
+   - internet-facing：直连互联网的
+   - orchestrate: 编排。You can orchestrate business logic with Logic Apps
+   - compute-intensive 计算密集的
+   - preconfigured 事先配置好的
+   - traffic comes in spikes：流量达到峰值
