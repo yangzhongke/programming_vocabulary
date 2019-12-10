@@ -33,3 +33,4 @@
    - 三种一致性：strong consistency,session consistency, and eventual consistency
    - throughput： 吞吐量
    - spin up：To spin up a web server (a software application) is to create it rapidly.
+   - decouple：解耦。Azure Queue decouples the message sender from the message processor.
