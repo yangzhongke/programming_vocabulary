@@ -27,3 +27,7 @@
    - preconfigured 事先配置好的
    - traffic comes in spikes：流量达到峰值
    - Bot Traffic: 非人类访问造成的流量，比如爬虫、DDOS、监控、漏洞扫描工具等。
+   - session affinity.在负载均衡环境中，为了避免这次请求到A服务器，下次请求到B服务器，造成Session丢失，用session affinity策略，也就是确保同一个客户端的请求被转到确定的服务器。
+   - turnkey：开箱即用的。DWR is a turnkey solution.
+   - a spectrum of：一定范围内的。You can choose from a spectrum of data consistency models.
+   - 三种一致性：strong consistency,session consistency, and eventual consistency
