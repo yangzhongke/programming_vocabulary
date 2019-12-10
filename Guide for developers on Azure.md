@@ -12,3 +12,5 @@
    - fine-grained access management: 细粒度的访问管理
    - pay-as-you-go 按需付费
    - scale set: A scale set is an identical pool of virtual machines running some application you control. 
+   - ingress and egress: 入口和出口
+   - network topology: 网络拓朴结构
