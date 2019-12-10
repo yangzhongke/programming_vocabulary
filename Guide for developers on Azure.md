@@ -31,3 +31,5 @@
    - turnkey：开箱即用的。DWR is a turnkey solution.
    - a spectrum of：一定范围内的。You can choose from a spectrum of data consistency models.
    - 三种一致性：strong consistency,session consistency, and eventual consistency
+   - throughput： 吞吐量
+   - spin up：To spin up a web server (a software application) is to create it rapidly.
