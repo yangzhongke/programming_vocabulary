@@ -14,3 +14,5 @@
    - scale set: A scale set is an identical pool of virtual machines running some application you control. 
    - ingress and egress: 入口和出口
    - network topology: 网络拓朴结构
+   - throughput rate: 吞吐率
+   - dedicated: 专用的，和shared是反义词. Dedicated instance/Dedicated system.
